@@ -1,0 +1,8 @@
+Order:
+- Introduction to Bayesian Inference
+- Linear models with Normal noise
+- Least Mean Square Estimator
+- Linear Least Mean Square Estimator
+- Inequalities, Convergence and the weak law of large number
+- The central limit theorem
+Ordered: true
