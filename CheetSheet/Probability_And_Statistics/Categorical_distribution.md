@@ -1,2 +1,0 @@
-# Categorical distribution
-* In probability theory and statistics, a categorical distribution is a discrete probability distribution that describes the possible results of a random variable that can take on one of K possible categories, with the probability of each category separately specified.

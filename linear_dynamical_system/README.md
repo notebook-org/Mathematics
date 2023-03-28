@@ -1,0 +1,17 @@
+# Linear dynamical system
+
+1. [Linear algebra review](./1/README.md)
+2. [orthonormal sets of vectors and QR decomposition](./2/README.md)
+3. [least square](./3/README.md)
+4. [least square application](./4/README.md)
+5. [regularised least square and gauss Newton method](./5/README.md)
+6. [least norm solutions of undetermined equations](./6/README.md)
+7. [autonomous linear dynamical systems](./7/README.md)
+8. [solution via Laplace transform and matrix exponential](./8/README.md)
+9. [eigenvectors and diagonalization](./9/README.md)
+10. [Jordan canonical form](./10/README.md)
+11. [linear dynamical systems with input and output](./11/README.md)
+12. [symmetric matrices, quadratic forms, matrix norm and SVD](./12/README.md)
+13. [SVD application](./13/README.md)
+14. [controllability and state transfer](./14/README.md)
+15. [observability and state estimation](./15/README.md)

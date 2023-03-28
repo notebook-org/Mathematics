@@ -1,2 +1,0 @@
-- An Introduction to Laplace Transforms and Fourier Series
-	- by Phil Dyke
